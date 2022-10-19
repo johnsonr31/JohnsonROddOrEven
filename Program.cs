@@ -18,8 +18,10 @@ while(playAgain == true)
         if(yesNo == "NO" && isNum != true)
         {
             // If the user types NO, the program will print the text below to the console and end the while loop
-            Console.WriteLine("Then goodbye");
+            Console.Write("Then goodbye. Press enter to end...");
+            Console.ReadLine();
             playAgain = false;
+            Console.Clear();
         }
         else if(yesNo == "YES" && isNum != true)
         {
