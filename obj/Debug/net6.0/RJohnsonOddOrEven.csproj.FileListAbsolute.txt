@@ -1,0 +1,15 @@
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\bin\Debug\net6.0\RJohnsonOddOrEven.exe
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\bin\Debug\net6.0\RJohnsonOddOrEven.deps.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\bin\Debug\net6.0\RJohnsonOddOrEven.runtimeconfig.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\bin\Debug\net6.0\RJohnsonOddOrEven.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\bin\Debug\net6.0\RJohnsonOddOrEven.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\RJohnsonOddOrEven.csproj.AssemblyReference.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\RJohnsonOddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\RJohnsonOddOrEven.AssemblyInfoInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\RJohnsonOddOrEven.AssemblyInfo.cs
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\RJohnsonOddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\RJohnsonOddOrEven.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\refint\RJohnsonOddOrEven.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\RJohnsonOddOrEven.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\RJohnsonOddOrEven.genruntimeconfig.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonOddOrEven\obj\Debug\net6.0\ref\RJohnsonOddOrEven.dll
