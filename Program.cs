@@ -19,7 +19,7 @@ while(playAgain == true)
             Console.WriteLine("Then goodbye");
             playAgain = false;
         }
-        else if(yesNo == "NO" && isNum != true)
+        else if(yesNo == "YES" && isNum != true)
         {
             // If the user types YES, the program will ask them to input a number
             Console.Write("Please input a whole number: ");
