@@ -44,14 +44,14 @@ while(playAgain == true)
                 }
                 else
                 {
-                    // If the user input isn't a whole number, this will print
+                    // If the user input isn't a whole number, the program will print this text and go back to the beginning of the loop
                     Console.WriteLine("Invalid Input");
                     Console.WriteLine(" ");
                 }
         }
         else
         {
-            // If the user types a whole number or anything else aside from YES or NO, this will print
+            // If the user types a whole number or anything else aside from YES or NO, the program will print the text below and reset to the beginning of the loop
             Console.WriteLine("Invalid Input.");
             Console.WriteLine(" ");
         }
