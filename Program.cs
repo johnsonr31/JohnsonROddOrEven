@@ -2,6 +2,7 @@
 
 bool playAgain = true;
 bool isNum;
+bool inputNum;
 int num;
 int validNum;
 
@@ -18,36 +19,44 @@ while(playAgain == true)
         if(yesNo == "NO" && isNum != true)
         {
             // If the user types NO, the program will print the text below to the console and end the while loop
-            Console.Write("Then goodbye. Press enter to end...");
+            Console.WriteLine("Then goodbye.");
+            Console.Write("Press enter to end...");
             Console.ReadLine();
             playAgain = false;
             Console.Clear();
         }
         else if(yesNo == "YES" && isNum != true)
         {
+            inputNum = true;
             // If the user types YES, the program will ask them to input a whole number
-            Console.Write("Please input a whole number: ");
-            // The user's input will be saved as a string called "userInput"
-            string userInput = Console.ReadLine();
-            // The input will be validated as a whole number
-            isNum = Int32.TryParse(userInput, out validNum);
-                if(validNum % 2 == 0 && isNum == true)
-                {
-                    // If the number has a remainder of two, it is even
-                    Console.WriteLine($"{validNum} is an even number.");
-                    Console.WriteLine(" ");
-                }
-                else if(validNum %2 != 0 && isNum == true)
-                {
-                    // If the number doesn't have a remainder of two, it is odd
-                    Console.WriteLine($"{validNum} is an odd number.");
-                }
-                else
-                {
-                    // If the user input isn't a whole number, the program will print this text and go back to the beginning of the loop
-                    Console.WriteLine("Invalid Input");
-                    Console.WriteLine(" ");
-                }
+            while(inputNum == true)
+            {
+                Console.Write("Please input a whole number: ");
+                // The user's input will be saved as a string called "userInput"
+                string userInput = Console.ReadLine();
+                // The input will be validated as a whole number
+                isNum = Int32.TryParse(userInput, out validNum);
+                    if(validNum % 2 == 0 && isNum == true)
+                    {
+                        // If the number has a remainder of two, it is even
+                        Console.WriteLine($"{validNum} is an even number.");
+                        Console.WriteLine(" ");
+                        inputNum = false;
+                    }
+                    else if(validNum %2 != 0 && isNum == true)
+                    {
+                        // If the number doesn't have a remainder of two, it is odd
+                        Console.WriteLine($"{validNum} is an odd number.");
+                        inputNum = false;
+                    }
+                    else
+                    {
+                        // If the user input isn't a whole number, the program will print this text and go back to the beginning of the loop
+                        Console.WriteLine("Invalid Input");
+                        Console.WriteLine(" ");
+                    }
+
+            }
         }
         else
         {
