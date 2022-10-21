@@ -27,10 +27,13 @@ while(playAgain == true)
         }
         else if(yesNo == "YES" && isNum != true)
         {
+            // This bool will be declared true so that the while loop for the number input will start
             inputNum = true;
-            // If the user types YES, the program will ask them to input a whole number
+            // This while loop will run as long as the inputNum bool is true. If the user types anything aside from a whole number,
+            // the program will stay in this loop until they enter one
             while(inputNum == true)
             {
+                // If the user types YES, the program will ask them to input a whole number
                 Console.Write("Please input a whole number: ");
                 // The user's input will be saved as a string called "userInput"
                 string userInput = Console.ReadLine();
