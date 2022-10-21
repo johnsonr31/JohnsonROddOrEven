@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rcj53\\.nuget\\packages\\": {}
+    "/Users/brandonle/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rcj53\\Documents\\CodeStack Assignments\\Lvl1\\Week 1\\RJohnsonOddOrEven\\RJohnsonOddOrEven.csproj",
+      "projectUniqueName": "/Users/brandonle/Desktop/GitRepository/RJohnsonOddOrEven/RJohnsonOddOrEven.csproj",
       "projectName": "RJohnsonOddOrEven",
-      "projectPath": "C:\\Users\\rcj53\\Documents\\CodeStack Assignments\\Lvl1\\Week 1\\RJohnsonOddOrEven\\RJohnsonOddOrEven.csproj",
-      "packagesPath": "C:\\Users\\rcj53\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rcj53\\Documents\\CodeStack Assignments\\Lvl1\\Week 1\\RJohnsonOddOrEven\\obj\\",
+      "projectPath": "/Users/brandonle/Desktop/GitRepository/RJohnsonOddOrEven/RJohnsonOddOrEven.csproj",
+      "packagesPath": "/Users/brandonle/.nuget/packages/",
+      "outputPath": "/Users/brandonle/Desktop/GitRepository/RJohnsonOddOrEven/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rcj53\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/brandonle/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
